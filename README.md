@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+MSc Graduate in Engineering Physics from Instituto Superior Técnico & EPFL.  
+My interests span across **Physics**, particularly **General Relativity** and **Black Holes**, as well as **Machine Learning**. I'm also passionate about **sports**, including **tennis**, **basketball**, and **football** (soccer). 
+
+In my recent work, I applied **Physics-Informed Neural Networks (PINNs)** to the field of Black Hole Physics, computing the **Quasibound states** of the **curved spacetime Klein-Gordon equation**.
+
+I’m open to collaboration in any of these areas, whether it be academic or technical.
+
+
 <!--
 **GuiSimplicio/GuiSimplicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
